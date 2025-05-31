@@ -1,2 +1,7 @@
 streamlit
+torch
+transformers
 pandas
+pytesseract
+pdf2image
+pillow
